@@ -11,6 +11,9 @@ docker/library
 uploads
 coverage
 
+# Development data directory
+dev-data/
+
 mobile/gradle.properties
 mobile/openapi/pubspec.lock
 mobile/*.jks
